@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "book",
+    "exemption": true
+  },
+  {
+    "id": 2,
+    "name": "perfum",
+    "exemption": false
+  },
+  {
+    "id": 3,
+    "name": "music",
+    "exemption": false
+  },
+  {
+    "id": 4,
+    "name": "food",
+    "exemption": true
+  }
+]

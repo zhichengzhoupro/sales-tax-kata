@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Porter",
+    "productCategoryId": 1,
+    "origin": "IMPORTED",
+    "prise": "22.38"
+  },
+  {
+    "id": 2,
+    "name": "Dictionary",
+    "productCategoryId": 1,
+    "origin": "LOCAL",
+    "prise": "12.49"
+  },
+  {
+    "id": 3,
+    "name": "chocolate bar",
+    "productCategoryId": 4,
+    "origin": "LOCAL",
+    "prise": "0.85"
+  },
+  {
+    "id": 4,
+    "name": "CD justin biber",
+    "productCategoryId": 3,
+    "origin": "LOCAL",
+    "prise": "14.99"
+  },
+  {
+    "id": 5,
+    "name": "imported bottle of perfume",
+    "productCategoryId": 2,
+    "origin": "IMPORTED",
+    "prise": "27.99"
+  },
+  {
+    "id": 6,
+    "name": "bottle of perfume",
+    "productCategoryId": 2,
+    "origin": "LOCAL",
+    "prise": "18.99"
+  },
+  {
+    "id": 7,
+    "name": "backet of headache pills",
+    "productCategoryId": 5,
+    "origin": "LOCAL",
+    "prise": "9.75"
+  },
+  {
+    "id": 8,
+    "name": "imported box of chocolates",
+    "productCategoryId": 4,
+    "origin": "IMPORTED",
+    "prise": "11.25"
+  }
+]
